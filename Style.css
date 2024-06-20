@@ -1,0 +1,39 @@
+body{
+    padding: 0% 20%;
+}
+.parentcontainer{
+/* padding: 2% 33% 0% 30%; */
+padding: 10% 36%;
+height: 420px;
+background-color: hsl(212, 45%, 89%);
+}
+.container{
+    height: 340px;
+    padding: 10px;
+    /* margin-right: 190px; */
+    background-color: hsl(0, 0%, 100%);
+}
+.black{
+    height: 220px;
+    width: 238px;
+    border-radius: 10px;
+}
+.elo{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* margin-top: 25px;                                             */
+}
+.nna{
+font-weight: 900;
+font-size: 15px;
+/* margin: 0% 5%; */
+color: hsl(218, 44%, 22%);
+}
+.nne{
+    font-size: 12px;
+    /* padding: 0px 5px */
+    margin-left: 5px;
+    margin-left: 5px;
+    color: hsl(220, 15%, 55%);
+}
